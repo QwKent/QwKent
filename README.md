@@ -28,6 +28,10 @@
 
 > ## Statistics
 
+## Statistics
+
 ![GitHub stats](https://github-stats-alpha.vercel.app/api?username=QwKent&cc=22272e&tc=37ff8b&ic=fff&bc=0000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QwKent&theme=tokyonight&layout=compact)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QwKent&theme=tokyonight)
+
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QwKent&theme=tokyonight)
