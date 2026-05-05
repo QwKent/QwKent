@@ -2,9 +2,9 @@
 
 ---
 
-## HI I'M KENT AND I'M BACKEND DEVELOPER
+# HI I'M KENT AND I'M BACKEND DEVELOPER
 
-> ### <div align="center">💻 Languages</div>
+> ## <div align="center">💻 Languages</div>
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
 
-> ### <div align="center">🛠️ Tools</div>
+> ## <div align="center">🛠️ Tools</div>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
