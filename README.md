@@ -14,7 +14,8 @@
 > ## <div align="center">💻 Languages</div>
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql)
