@@ -1,8 +1,15 @@
 ![Header](https://github.com/QwKent/QwKent/blob/main/assets/banner.png)
 
----
+
 
 # HI I'M KENT
+
+
+
+---
+> #### Backend developer from Russia (🇷🇺)
+> #### Developing websites, bots, scripts and mobile applications.
+---
 
 > ## <div align="center">💻 Languages</div>
 
