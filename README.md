@@ -7,8 +7,8 @@
 
 
 ---
-> #### Backend developer from Russia (🇷🇺)
-> #### Developing websites, bots, scripts and mobile applications.
+> ### Backend developer from Russia (🇷🇺)
+> ### Developing websites, bots, scripts and mobile applications.
 ---
 
 > ## <div align="center">💻 Languages</div>
