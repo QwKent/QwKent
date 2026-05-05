@@ -27,7 +27,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=androidstudio)
 
-> ## Statistics
+
 
 ## Statistics
 
