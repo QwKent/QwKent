@@ -2,7 +2,7 @@
 
 ---
 
-# HI I'M KENT AND I'M BACKEND DEVELOPER
+# HI I'M KENT
 
 > ## <div align="center">💻 Languages</div>
 
