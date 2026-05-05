@@ -28,6 +28,4 @@
 
 > ## Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=QwKent&theme=tokyonight&show_icons=true)](https://github.com/QwKent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QwKent&theme=tokyonight)
+![GitHub stats](https://github-stats-alpha.vercel.app/api?username=QwKent&cc=22272e&tc=37ff8b&ic=fff&bc=0000)
