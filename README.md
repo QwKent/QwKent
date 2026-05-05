@@ -25,3 +25,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge&logo=androidstudio)
+
+> ## Statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=QwKent&theme=tokyonight&show_icons=true)](https://github.com/QwKent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QwKent&theme=tokyonight)
