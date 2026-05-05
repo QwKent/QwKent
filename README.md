@@ -30,10 +30,15 @@
 
 ## Statistics
 
-<table align="center">
+<table>
   <tr>
-    <td align="center"><img src="https://github-stats-alpha.vercel.app/api?username=QwKent&cc=22272e&tc=37ff8b&ic=fff&bc=0000" width="600"></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QwKent&theme=tokyonight" width="250"></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QwKent&theme=tokyonight" width="250"></td>
+    <td width="60%" align="center">
+      <img src="https://github-stats-alpha.vercel.app/api?username=QwKent&cc=22272e&tc=37ff8b&ic=fff&bc=0000">
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QwKent&theme=tokyonight" width="100%">
+      <br><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QwKent&theme=tokyonight" width="100%">
+    </td>
   </tr>
 </table>
