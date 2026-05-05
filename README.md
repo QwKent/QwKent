@@ -29,3 +29,5 @@
 > ## Statistics
 
 ![GitHub stats](https://github-stats-alpha.vercel.app/api?username=QwKent&cc=22272e&tc=37ff8b&ic=fff&bc=0000)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QwKent&theme=tokyonight)
