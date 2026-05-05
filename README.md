@@ -32,7 +32,7 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github-stats-alpha.vercel.app/api?username=QwKent&cc=22272e&tc=37ff8b&ic=fff&bc=0000" width="350"></td>
+    <td align="center"><img src="https://github-stats-alpha.vercel.app/api?username=QwKent&cc=22272e&tc=37ff8b&ic=fff&bc=0000" width="800"></td>
     <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QwKent&theme=tokyonight" width="250"></td>
     <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QwKent&theme=tokyonight" width="250"></td>
   </tr>
