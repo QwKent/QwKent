@@ -11,6 +11,7 @@
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JAVASCRIPT)
 ![FIGMA](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
 ![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=mysql)
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-090909?style=for-the-badge)
